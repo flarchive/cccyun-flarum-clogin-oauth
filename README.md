@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of cccyun/flarum-clogin-oauth.** Not for installation: use [Packagist](https://packagist.org/packages/cccyun/flarum-clogin-oauth) or the [upstream repository](https://github.com/netcccyun/flarum-clogin-oauth).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/cccyun-flarum-clogin-oauth/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/cccyun-flarum-clogin-oauth/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2022-04-17 | `*` | [Browse](https://github.com/flarchive/cccyun-flarum-clogin-oauth/tree/archive/v1.0.0) |
+| `v1.0.1` | 2022-04-17 | `^1.0.0` | [Browse](https://github.com/flarchive/cccyun-flarum-clogin-oauth/tree/archive/v1.0.1) |
+| `v1.0.2` | 2022-05-27 | `^1.0.0` | [Browse](https://github.com/flarchive/cccyun-flarum-clogin-oauth/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/cccyun-flarum-clogin-oauth.json](https://github.com/flarchive/archive-index/blob/main/packages/cccyun-flarum-clogin-oauth.json)
 
